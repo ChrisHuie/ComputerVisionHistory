@@ -12,13 +12,13 @@ for a Mechanism of Pattern Recognition
 Unaffected by Shift in Position](https://www.rctn.org/bruno/public/papers/Fukushima1980.pdf)
 - 1986: Hinton, Rumelhart, & Williams - [Learning Internal Representations
 by Error Propagation](https://web.stanford.edu/class/psych209a/ReadingsByDate/02_06/PDPVolIChapter8.pdf)
-- 
-
-
-
-
-
+- 1986: Hinton, Rumelhart, & Williams - [Learning Representations by back-propogating errors](https://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf)
+- 1989: LeCun & Friends - [Backpropogation Applied to Handwritten Zip Code Recognition](http://yann.lecun.com/exdb/publis/pdf/lecun-89e.pdf)
+- 2001: Viola & Jones - [Rapid Object Detection using a Boosted Cascade of Simple
+Features](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf)
 - 2006: Hinton, Osindero, & Teh - [A fast learning algorithm for deep belief nets](https://www.cs.toronto.edu/~hinton/absps/fastnc.pdf)
+- 2011: Glorot, Bordes, & Bengio - [Deep Sparse Rectifier Neural Networks](http://proceedings.mlr.press/v15/glorot11a/glorot11a.pdf)
+
 
 ### Other Articles that may also be of interest:
 - [The inside story of how AI got good enough to dominate Silicon Valley](https://qz.com/1307091/the-inside-story-of-how-ai-got-good-enough-to-dominate-silicon-valley/)
