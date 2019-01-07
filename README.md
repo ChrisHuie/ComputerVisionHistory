@@ -10,8 +10,6 @@ In The Brain](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=6985402E4
 - 1980: Fukushima - [Neocognitron: A Self-organizing Neural Network Model
 for a Mechanism of Pattern Recognition
 Unaffected by Shift in Position](https://www.rctn.org/bruno/public/papers/Fukushima1980.pdf)
-- 1986: Hinton, Rumelhart, & Williams - [Learning Internal Representations
-by Error Propagation](https://web.stanford.edu/class/psych209a/ReadingsByDate/02_06/PDPVolIChapter8.pdf)
 - 1986: Hinton, Rumelhart, & Williams - [Learning Representations by back-propogating errors](https://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf)
 - 1989: LeCun & Friends - [Backpropogation Applied to Handwritten Zip Code Recognition](http://yann.lecun.com/exdb/publis/pdf/lecun-89e.pdf)
 - 2001: Viola & Jones - [Rapid Object Detection using a Boosted Cascade of Simple
