@@ -16,6 +16,8 @@ Unaffected by Shift in Position](https://www.rctn.org/bruno/public/papers/Fukush
 Features](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf)
 - 2006: Hinton, Osindero, & Teh - [A fast learning algorithm for deep belief nets](https://www.cs.toronto.edu/~hinton/absps/fastnc.pdf)
 - 2011: Glorot, Bordes, & Bengio - [Deep Sparse Rectifier Neural Networks](http://proceedings.mlr.press/v15/glorot11a/glorot11a.pdf)
+- 2014: Krizhevsky, Sutskever, Hinton - [ImageNet Classification with Deep
+Convolutional Neural Networks](http://image-net.org/challenges/LSVRC/2012/supervision.pdf)
 
 
 ### Other Articles that may also be of interest:
