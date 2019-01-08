@@ -43,3 +43,11 @@ Convolutional Neural Networks](http://image-net.org/challenges/LSVRC/2012/superv
 
 ### Online Go Server Bot Tournament
 - [1st Manning Go Bot Tournament](https://deals.manning.com/go-comp/?fbclid=IwAR2UYq9QPlCfLzliDwXbxnYYyuTrImEKByTWuBTn0r02-SCGn2qXY8_QLIs)
+
+---
+
+### Learn More About Galvanize's Data Science Program
+[Intro to Data Science: Python and SQL (1/29/19 - 3/21/19)](https://intro2datascience.eventbrite.com)
+
+
+[Want to learn more about Galvanize's data science and software engineering programs in Phoenix?](https://www.galvanize.com/courses/request-info)
