@@ -19,6 +19,13 @@ Features](https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf)
 - 2014: Krizhevsky, Sutskever, Hinton - [ImageNet Classification with Deep
 Convolutional Neural Networks](http://image-net.org/challenges/LSVRC/2012/supervision.pdf)
 
+---
 
 ### Other Articles that may also be of interest:
 - [The inside story of how AI got good enough to dominate Silicon Valley](https://qz.com/1307091/the-inside-story-of-how-ai-got-good-enough-to-dominate-silicon-valley/)
+
+---
+
+### Demo Code Implementations from Jon Krohn
+- [LeNet-5 Keras Implementation](https://github.com/the-deep-learners/TensorFlow-LiveLessons/blob/master/notebooks/lenet_in_keras.ipynb)
+- [AlexNet Keras Implementation](https://github.com/the-deep-learners/TensorFlow-LiveLessons/blob/master/notebooks/alexnet_in_keras.ipynb)
