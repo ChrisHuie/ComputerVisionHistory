@@ -46,6 +46,11 @@ Convolutional Neural Networks](http://image-net.org/challenges/LSVRC/2012/superv
 
 ---
 
+### Slides
+[Intro to Computer Vision & Neural Nets](https://docs.google.com/presentation/d/1nCCE_g0AhDEPLSFBCmBbVqlrLPgrSSWv3Mhckg7Kkek/edit?usp=sharing)
+
+---
+
 ### Learn More About Galvanize's Data Science Program
 [Intro to Data Science: Python and SQL (1/29/19 - 3/21/19)](https://intro2datascience.eventbrite.com)
 
