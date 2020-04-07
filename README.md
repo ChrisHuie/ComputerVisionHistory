@@ -31,13 +31,3 @@ Convolutional Neural Networks](http://image-net.org/challenges/LSVRC/2012/superv
 ### Demo Code Implementations from Jon Krohn
 - [LeNet-5 Keras Implementation](https://github.com/the-deep-learners/TensorFlow-LiveLessons/blob/master/notebooks/lenet_in_keras.ipynb)
 - [AlexNet Keras Implementation](https://github.com/the-deep-learners/TensorFlow-LiveLessons/blob/master/notebooks/alexnet_in_keras.ipynb)
-
-
-
----
-
-### Learn More About Galvanize's Data Science Program
-[Intro to Data Science: Python and SQL (1/29/19 - 3/21/19)](https://intro2datascience.eventbrite.com)
-
-
-[Want to learn more about Galvanize's data science and software engineering programs in Phoenix?](https://www.galvanize.com/courses/request-info)
