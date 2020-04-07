@@ -1,12 +1,5 @@
-# Intro to Computer Vision & Neural Nets!
+# The Rise and History of Neural Networks
 
----
-
-### Meetups
-
-- [Data Science Phoenix](https://www.meetup.com/Data-Science-Phoenix/)
-- [Learn Data Science Phoenix](https://www.meetup.com/ldsphx/)
-- [Phoenix AI & Neural Nets](https://www.meetup.com/phoenixnn/)
 
 ---
 
@@ -39,15 +32,7 @@ Convolutional Neural Networks](http://image-net.org/challenges/LSVRC/2012/superv
 - [LeNet-5 Keras Implementation](https://github.com/the-deep-learners/TensorFlow-LiveLessons/blob/master/notebooks/lenet_in_keras.ipynb)
 - [AlexNet Keras Implementation](https://github.com/the-deep-learners/TensorFlow-LiveLessons/blob/master/notebooks/alexnet_in_keras.ipynb)
 
----
 
-### Online Go Server Bot Tournament
-- [1st Manning Go Bot Tournament](https://deals.manning.com/go-comp/?fbclid=IwAR2UYq9QPlCfLzliDwXbxnYYyuTrImEKByTWuBTn0r02-SCGn2qXY8_QLIs)
-
----
-
-### Slides
-[Intro to Computer Vision & Neural Nets](https://docs.google.com/presentation/d/1nCCE_g0AhDEPLSFBCmBbVqlrLPgrSSWv3Mhckg7Kkek/edit?usp=sharing)
 
 ---
 
